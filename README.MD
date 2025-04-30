@@ -1,4 +1,4 @@
-# decentralized-digital-identity-wallet-for-students-and-young-professionakls
+
 # Decentralized Digital Identity Wallet for Students and Young Professionals
 
 ## Project Description
