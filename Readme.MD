@@ -17,3 +17,4 @@ To empower early-career individuals with control over their digital identities u
 - Third-party verification (e.g., employers, institutions).
 - Mobile/Web dApp for easy access and UI.
 -
+ contract** 0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3
